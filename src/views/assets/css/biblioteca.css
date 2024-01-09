@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.juegos-b{
+    display: grid;
+    width: 90%;
+    grid-template-columns: repeat(4,1fr);
+    gap: 15px;
+    margin: auto;
+}
+.juego-b{
+    height: 40vh;
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+.juego-b>img{
+    height: 100%;
+    width: 100%;
+
+}

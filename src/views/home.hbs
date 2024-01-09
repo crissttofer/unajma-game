@@ -1,0 +1,53 @@
+<div class="slider">
+    <ul>
+        <li class="carrusel"></li>
+        <li class="carrusel"></li>
+        <li class="carrusel"></li>
+        <li class="carrusel"></li>
+    </ul>
+</div>
+<div class="baras">
+    <div class="cap">
+        <nav class="capsula">
+            <h3>Nitendo</h3>
+        </nav>
+
+        <nav class="capsula">
+            <h3>Play station 1</h3>
+        </nav>
+
+        <nav class="capsula">
+            <h3>Play station 2</h3>
+        </nav>
+
+        <nav class="capsula">
+            <h3>Atari</h3>
+        </nav>
+
+        <nav class="capsula">
+            <h3>Consola</h3>
+        </nav>
+    </div>
+
+</div>
+<div class="game">
+</div>
+<template id="info-game">
+    <a href="">
+        <div class="capsula-game">
+        <img src="" alt="" />
+        <h1></h1>
+        <p></p>
+        </div>
+
+    </a>
+</template>
+<script>
+    document.addEventListener('DOMContentLoaded', function() { var elements =
+    document.querySelectorAll('.carrusel'); var imageUrls = [
+    '/assets/img/slider1.jpg', '/assets/img/slider2.jpg',
+    '/assets/img/slider3.jpg', '/assets/img/slider4.jpg' ];
+    elements.forEach(function(element, index) { var imageUrl = imageUrls[index];
+    element.style.backgroundImage = 'url("' + imageUrl + '")'; }); });
+</script>
+<script src="/assets/src/epic.js"></script>

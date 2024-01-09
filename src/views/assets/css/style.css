@@ -1,0 +1,128 @@
+*
+{
+    margin: 0;
+}
+body{
+    background: #222;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 97.5vh;
+}
+.cuerpo
+{
+    width: 1200px;
+
+
+    background: rgba(214, 196, 161, 0.103);
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    height: 600px;
+
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.circulo
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+
+    background-image: url(../img/log.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-size: 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+    background-color: #dad0d0;
+}
+
+.circulo>p{
+    background-color: #5c5a5a;
+    position: fixed;
+    padding: 10px;
+ 
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#pass_img{
+    width: 40px;
+    height: 40px;
+    background-image: url(../img/pass.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-color: rgba(148, 142, 132, 0.144);
+}
+#user_img{
+    width: 40px;
+    height: 40px;
+    background-image: url(../img/user.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-color: rgba(148, 142, 132, 0.144);
+}
+input[type="text"],
+[type="password"]
+{
+    border: none;
+    font-size: 15px;
+    outline-style: none;
+    background-color: rgba(148, 142, 132, 0.144);
+    color:wheat;
+
+}
+.contenedor
+{
+    margin-top: 20px;
+    text-align: center;
+    display: flex;
+   
+}
+.ver
+{
+    cursor: pointer;
+    border: none;
+    width: 40px;
+    background-color: rgba(148, 142, 132, 0.144);
+    color: white;
+}
+#user
+{
+    width: 250px;
+}
+#pass{
+    width: 210px;
+}
+
+input[type="submit"]{
+    background-color: #5c5a5a;
+    font-size: 20px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+a{
+    margin-top: 15px;
+    color: rgb(75, 75, 218);
+    text-decoration: none;
+    font-size: 20px;
+}

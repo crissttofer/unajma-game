@@ -1,0 +1,16 @@
+DROP DATABASE IF EXISTS unajmagame;
+CREATE DATABASE unajmagame;
+USE unajmagame;
+CREATE TABLE usuario(
+  correo VARCHAR(250) PRIMARY KEY NOT NULL,
+  nombre VARCHAR(100) NOT NULL,
+  password VARCHAR(250) NOT NULL
+);
+CREATE TABLE games(
+  id VARCHAR(250) PRIMARY KEY NOT NULL,
+  title VARCHAR(100) NOT NULL,
+  keyimage VARCHAR(250) NOT NULL,
+  description TEXT NOT NULL,
+  user VARCHAR(250) NOT NULL,
+  FOREIGN KEY (user) REFERENCES usuario(correo)
+);

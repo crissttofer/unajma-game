@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    list-style: none;
+}
+body
+{
+    background-color: #131313;
+}
+main{
+    width: 95%;
+    margin: auto;
+    background-color: #2B2B2B;
+    padding: 70px 1% 1% 1%;
+}
+
+/*cabeza*/
+header{
+    position: fixed;
+    width: 95%;
+    top: 0;
+    display: grid;
+    grid-template-columns: repeat(13,.5fr);
+    background-color: #0a0a0a;
+}header>.logo{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}header>.logo>img{
+    width: 50px;
+    height: 50px;
+    
+}
+header>.logo>h2{
+    font-size: 1em;
+}
+
+header>.buscar{
+    grid-column-start: 3;
+    grid-column-end: 8;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}header>.buscar>input[type="text"]{
+    width: 78%;
+    height: 70%;
+    border: none;
+    outline-style: none;
+    font-size: 1.2em;
+    padding: 0 2%;
+    border-radius: 10px 0 0 10px;
+    background-color: #212121;
+}header>.buscar>input[type="button"]{
+    width: 10%;
+    border: none;
+    height: 70%;
+    font-size: 1.2em;
+    border-radius: 0px 10px 10px 0px;
+    cursor: pointer;
+    background-color: #212121;
+}header>.buscar>input[type="button"]:hover{
+    background-color: #1561f0;
+    
+}
+
+header>.nav{
+    grid-column-start: 8;
+    grid-column-end: 14;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}header>.nav>a{
+    text-decoration: none;
+    color: #fff;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+    width: 100%;
+    height: 100%;
+    font-size: 1.5em;
+}header>.nav>a:hover{
+    background-color: #898176;
+}
+
+/*slider de presentacion*/
+
+.slider{
+
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 50px;
+    
+}
+.slider>ul{
+    width: 400%;
+    height: 100%;
+    display: flex;
+    animation: slider 15s infinite;
+}.slider>ul>li{
+    width: 25%;
+    height: 100%;
+    
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+@keyframes slider {
+    0%{margin-left: 0;}
+    20%{margin-left: 0;}
+
+    25%{margin-left: -100%;}
+    45%{margin-left: -100%;}
+
+    50%{margin-left: -200%;}
+    70%{margin-left: -200%;}
+
+    75%{margin-left: -300%;}
+    95%{margin-left: -300%;}
+}
+
+/*slider consolas*/
+
+.baras{
+    width: 100%;
+    overflow: hidden;
+}.baras>.cap{
+    width: 200%;
+    display: flex;
+    animation: consolas 10s infinite;
+}.baras>.cap:hover{
+    animation-play-state: paused;
+}.baras>.cap>.capsula{
+    width:16.55%;
+    cursor: pointer;
+    text-align: center;
+   padding: 5px 0;
+    
+}.baras>.cap>.capsula:hover{
+    background-color: #4682b4;
+  
+}
+
+@keyframes consolas {
+    0%{margin-left: 0;}
+    25%{margin-left: 0;}
+
+    35%{margin-left: -33.30%;}
+    55%{margin-left: -33.30%;}
+
+    65%{margin-left: -66.60%;}
+    85%{margin-left: -66.60%;}
+}
+
+/*juegos**/
+.game{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 15px;
+  
+}.game .capsula-game{
+    flex-grow: 1;
+    display: flex;
+    background-color: #191919;
+    flex-direction: column;
+  
+}.game .capsula-game>img{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 200px;
+}.game .capsula-game>h1
+{
+   flex-grow: 1;
+}
+.game .capsula-game>p
+{
+    flex-grow: 1;
+}

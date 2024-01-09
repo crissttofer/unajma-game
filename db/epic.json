@@ -1,0 +1,2890 @@
+{
+    "games": [
+        {
+            "title": "Homeworld 3",
+            "id": "c878358e51f24c968db63cd8953064dc",
+            "namespace": "ef7baa6ce017413ab33e7f7e3f466a96",
+            "description": "Tactical, beautiful, and wholly unique, the GOTY-winning sci-fi RTS returns with Homeworld 3. Assume control and battle through fleet combat in dazzling, fully 3D space while the award-winning story unfolds on a galactic scale.",
+            "effectiveDate": "2099-12-31T19:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/offer/ef7baa6ce017413ab33e7f7e3f466a96/EGS_Homeworld3_BlackbirdInteractive_S2_1200x1600-2080e2e3662c285b1c9efcb13f3a8d07"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/ef7baa6ce017413ab33e7f7e3f466a96/EGS_Homeworld3_BlackbirdInteractive_S2_1200x1600-2080e2e3662c285b1c9efcb13f3a8d07"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/offer/ef7baa6ce017413ab33e7f7e3f466a96/EGS_Homeworld3_BlackbirdInteractive_S2_1200x1600-2080e2e3662c285b1c9efcb13f3a8d07"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/offer/ef7baa6ce017413ab33e7f7e3f466a96/EGS_Homeworld3_BlackbirdInteractive_S1_2560x1440-983f993cb4a722947ee3f404ded3ae95"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/ef7baa6ce017413ab33e7f7e3f466a96/EGS_Homeworld3_BlackbirdInteractive_S2_1200x1600-2080e2e3662c285b1c9efcb13f3a8d07"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/ef7baa6ce017413ab33e7f7e3f466a96/EGS_Homeworld3_BlackbirdInteractive_S1_2560x1440-983f993cb4a722947ee3f404ded3ae95"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/homeworld-3",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-01-02T03:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2021-12-10T00:30:00.000Z",
+            "approximateReleasePlan": {
+                "day": null,
+                "month": 2,
+                "quarter": null,
+                "year": 2024,
+                "releaseDateType": "BY_MONTH"
+            },
+            "publisherName": "Gearbox Publishing"
+        },
+        {
+            "title": "Superior",
+            "id": "97d63cce1a004b38a56760f6e08dca9e",
+            "namespace": "89018fd416314b829bbf175c0b4aa440",
+            "description": "Superior is a co-op, roguelite, third person shooter game where you have to run a series of missions that are generated dynamically with special objectives, enemies and environments.",
+            "effectiveDate": "2099-12-13T16:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/spt-assets/947537fa3c924882aebd28869cc125c7/superior-offer-1cviw.jpg"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/spt-assets/947537fa3c924882aebd28869cc125c7/download-superior-offer-1k4rf.jpg"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/spt-assets/947537fa3c924882aebd28869cc125c7/download-superior-offer-1k4rf.jpg"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/superior-0bd6d0",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-12-13T16:00:00.000Z",
+            "pcReleaseDate": "2099-12-13T16:00:00.000Z",
+            "viewableDate": "2022-12-12T16:00:00.000Z",
+            "approximateReleasePlan": {
+                "day": null,
+                "month": null,
+                "quarter": null,
+                "year": null,
+                "releaseDateType": "UNKNOWN"
+            },
+            "publisherName": "Gala Games"
+        },
+        {
+            "title": "Warhammer 40,000: Rogue Trader",
+            "id": "95d91fdf2c164c379c0e73c157f32f24",
+            "namespace": "cb88aea9aed742e4a911a65c4898d857",
+            "description": "Made in a close partnership with Games Workshop, Warhammer 40,000: Rogue Trader is a story-rich classical RPG from Owlcat Games, developers of the critically acclaimed game, Pathfinder: Wrath of the Righteous.",
+            "effectiveDate": "2099-12-07T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/cb88aea9aed742e4a911a65c4898d857/EGS_Warhammer40000RogueTrader_OwlcatGames_S2_1200x1600-8dfa0d14d08a40975cdf58694a03f55e"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/cb88aea9aed742e4a911a65c4898d857/EGS_Warhammer40000RogueTrader_OwlcatGames_S1_2560x1440-fedc64deb9b50629ff1b2205b515f595"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/cb88aea9aed742e4a911a65c4898d857/EGS_Warhammer40000RogueTrader_OwlcatGames_S2_1200x1600-8dfa0d14d08a40975cdf58694a03f55e"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/warhammer-40000-rogue-trader",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": null,
+            "pcReleaseDate": null,
+            "viewableDate": "2023-09-13T17:17:00.000Z",
+            "approximateReleasePlan": {
+                "day": 7,
+                "month": 12,
+                "quarter": null,
+                "year": 2023,
+                "releaseDateType": "BY_DATE"
+            },
+            "publisherName": "Owlcat Games"
+        },
+        {
+            "title": "Killing Floor 3",
+            "id": "77915ba9c1734ea78e01c1a1e40a610f",
+            "namespace": "312a1e4f0c8e479e97d92a587dd52a33",
+            "description": "It’s 2091 and megacorp Horzine has produced the ultimate army: an obedient horde of bioengineered monsters called zeds. Now, join the rebel group Nightfall in this co-op action/horror FPS that puts you and your teammates in a battle for the future of humanity.",
+            "effectiveDate": "2099-11-30T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/312a1e4f0c8e479e97d92a587dd52a33/EGS_KillingFloor3_TripwireInteractive_S2_1200x1600-026755706981418b376af9476af8eada"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/312a1e4f0c8e479e97d92a587dd52a33/EGS_KillingFloor3_TripwireInteractive_S1_2560x1440-a025eb10b0ab611e9f2f052f17330186"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/312a1e4f0c8e479e97d92a587dd52a33/EGS_KillingFloor3_TripwireInteractive_S2_1200x1600-026755706981418b376af9476af8eada"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/killing-floor-3",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-11-30T00:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2023-08-22T20:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Tripwire Interactive"
+        },
+        {
+            "title": "GALAHAD 3093",
+            "id": "77e88821724447efbff0b46252304d8f",
+            "namespace": "7a6c7ce416d7436895e12c94917eb5f9",
+            "description": "GALAHAD 3093 is a mech-based hero shooter set in a sci-fi future imbued with Arthurian legend. Choose your Knight, customize their Lance, and fight in 32 player arena combat. Collect mods and weapons to upgrade your Lance and craft your own playstyle.",
+            "effectiveDate": "2099-10-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/7a6c7ce416d7436895e12c94917eb5f9/offer/EGS_Amechbasedheroshootersetin3093_SimutronicsCorp_S3-2560x1440-48b0044bc809e2d3a5d1ac571f5b6ce0.jpg"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/7a6c7ce416d7436895e12c94917eb5f9/offer/EGS_Amechbasedheroshootersetin3093_SimutronicsCorp_S2-1200x1600-886b2fc5069380d7b8ce9c9bbaf08f16.jpg"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/7a6c7ce416d7436895e12c94917eb5f9/offer/EGS_Amechbasedheroshootersetin3093_SimutronicsCorp_S2-1200x1600-886b2fc5069380d7b8ce9c9bbaf08f16.jpg"
+                },
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/7a6c7ce416d7436895e12c94917eb5f9/offer/EGS_Amechbasedheroshootersetin3093_SimutronicsCorp_S2-1200x1600-886b2fc5069380d7b8ce9c9bbaf08f16.jpg"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/7a6c7ce416d7436895e12c94917eb5f9/offer/EGS_Amechbasedheroshootersetin3093_SimutronicsCorp_S3-2560x1440-48b0044bc809e2d3a5d1ac571f5b6ce0.jpg"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/7a6c7ce416d7436895e12c94917eb5f9/offer/EGS_Amechbasedheroshootersetin3093_SimutronicsCorp_S2-1200x1600-886b2fc5069380d7b8ce9c9bbaf08f16.jpg"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/galahad-3093",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-01-02T03:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2021-02-12T16:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Simutronics"
+        },
+        {
+            "title": "Men of War II",
+            "id": "d3434ad0adbf41d5b7650e79a010a0bf",
+            "namespace": "feb6055528834fcf84e4d32c7d4ea0ba",
+            "description": "Men of War II, the anticipated sequel to the acclaimed RTS franchise is here with all-new units, locations, campaigns, and game modes, combined with the series’ trademark historical accuracy and action-filled gameplay on the Eastern and Western Fronts of WW2.",
+            "effectiveDate": "2099-09-20T17:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/spt-assets/26c17b7ea30743cab31561fba4f21547/men-of-war-ii-94nog.jpg"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/spt-assets/26c17b7ea30743cab31561fba4f21547/men-of-war-ii-w40mn.jpg"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/spt-assets/26c17b7ea30743cab31561fba4f21547/men-of-war-ii-w40mn.jpg"
+                }
+            ],
+            "currentPrice": 3999,
+            "url": "https://store.epicgames.com/en-US/p/men-of-war-ii-171a7e",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 3999,
+                    "originalPrice": 3999,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "$39.99",
+                        "discountPrice": "$39.99",
+                        "intermediatePrice": "$39.99"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-09-20T17:00:00.000Z",
+            "pcReleaseDate": "2099-09-20T17:00:00.000Z",
+            "viewableDate": "2022-01-17T10:00:00.000Z",
+            "approximateReleasePlan": {
+                "day": null,
+                "month": null,
+                "quarter": null,
+                "year": 2024,
+                "releaseDateType": "BY_YEAR"
+            },
+            "publisherName": "Fulqrum Publishing"
+        },
+        {
+            "title": "Dangerous Waters",
+            "id": "d2615ecee9df43d2bf6501aa4a89c611",
+            "namespace": "14d24f86d71143d69056df730f9867d5",
+            "description": "S.C.S. - Dangerous Waters allows you total control over multiple air, surface, and submarine platforms in a modern-day naval environment. Take direct control of individual crew stations and also plan and execute combined arms naval strategies.",
+            "effectiveDate": "2099-07-08T03:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/spt-assets/7eef5e2edf814daeb5ef95277acc4861/dangerous-waters-offer-12fua.png"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/spt-assets/7eef5e2edf814daeb5ef95277acc4861/download-dangerous-waters-offer-1fb77.png"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/spt-assets/7eef5e2edf814daeb5ef95277acc4861/download-dangerous-waters-offer-1fb77.png"
+                }
+            ],
+            "currentPrice": 999,
+            "url": "https://store.epicgames.com/en-US/p/dangerous-waters-61ea56",
+            "categories": [
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 999,
+                    "originalPrice": 999,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "$9.99",
+                        "discountPrice": "$9.99",
+                        "intermediatePrice": "$9.99"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": null,
+            "pcReleaseDate": "2006-02-07T02:00:00.000Z",
+            "viewableDate": "2022-07-01T03:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Strategy First"
+        },
+        {
+            "title": "Matchpoint - Tennis Championships",
+            "id": "136776cd62d04c5e87c25291c3f2a490",
+            "namespace": "ccf1eda0e53c4e01ba1a114fdb561cf7",
+            "description": "The season starts now – grab your racket and become the world’s next tennis champion!\nMatchpoint – Tennis Championships is a modern take on tennis, featuring a true-to-life on-court experience supported by a deep career mode and unique rivalry system.",
+            "effectiveDate": "2099-07-07T13:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/spt-assets/4de80dedf83c4a45993954be6a82eb37/matchpoint-tennis-championships-offer-1ypkx.jpg"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/spt-assets/4de80dedf83c4a45993954be6a82eb37/download-matchpoint-tennis-championships-offer-hv520.jpg"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/spt-assets/4de80dedf83c4a45993954be6a82eb37/download-matchpoint-tennis-championships-offer-hv520.jpg"
+                }
+            ],
+            "currentPrice": 3999,
+            "url": "https://store.epicgames.com/en-US/p/matchpoint-tennis-championships-26d55a",
+            "categories": [
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 3999,
+                    "originalPrice": 3999,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "$39.99",
+                        "discountPrice": "$39.99",
+                        "intermediatePrice": "$39.99"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-07-07T13:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2022-07-01T10:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Kalypso Media"
+        },
+        {
+            "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+            "id": "d24e2fc506f442c59de244a09ea5d463",
+            "namespace": "602a0ef0aceb46cca62445439661d712",
+            "description": "Discover Chornobyl Exclusion Zone full of dangerous enemies, deadly anomalies and powerful artifacts. Unveil epic story on your way to the Heart of Chornobyl. Make your choices wisely, as they will determine your fate in the end.",
+            "effectiveDate": "2099-06-13T19:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/offer/602a0ef0aceb46cca62445439661d712/EGS_STALKER2HeartofChornobyl_GSCGameWorld_S2_1200x1600-15b4c44396ad63e7dd881b3a5ef353cc"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/offer/602a0ef0aceb46cca62445439661d712/EGS_STALKER2HeartofChornobyl_GSCGameWorld_S2_1200x1600-15b4c44396ad63e7dd881b3a5ef353cc"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/offer/602a0ef0aceb46cca62445439661d712/EGS_STALKER2HeartofChornobyl_GSCGameWorld_S1_2560x1440-7cc8db55646ee7b969c48defed6963f4"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/602a0ef0aceb46cca62445439661d712/EGS_STALKER2HeartofChornobyl_GSCGameWorld_S2_1200x1600-15b4c44396ad63e7dd881b3a5ef353cc"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/602a0ef0aceb46cca62445439661d712/EGS_STALKER2HeartofChornobyl_GSCGameWorld_S1_2560x1440-7cc8db55646ee7b969c48defed6963f4"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/602a0ef0aceb46cca62445439661d712/EGS_STALKER2HeartofChornobyl_GSCGameWorld_S2_1200x1600-15b4c44396ad63e7dd881b3a5ef353cc"
+                }
+            ],
+            "currentPrice": 5999,
+            "url": "https://store.epicgames.com/en-US/p/stalker-2-heart-of-chornobyl",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 5999,
+                    "originalPrice": 5999,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "$59.99",
+                        "discountPrice": "$59.99",
+                        "intermediatePrice": "$59.99"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": true,
+            "releaseDate": "2099-12-08T12:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2021-06-13T19:00:00.000Z",
+            "approximateReleasePlan": {
+                "day": null,
+                "month": null,
+                "quarter": "q1",
+                "year": 2024,
+                "releaseDateType": "BY_QUARTER"
+            },
+            "publisherName": "GSC Game World"
+        },
+        {
+            "title": "Rollers of The Realm: Reunion",
+            "id": "5c69e751864d418d9cfb14f23aae9b2f",
+            "namespace": "7857266fccca4880bf682b8206071ed1",
+            "description": "Flip, dash, bounce and battle through an epic campaign starring five pinball heroes with unique stats, physics and upgrades. Arcade action meets RPG progression and skill mastery as you confront the power of The Ancient and rekindle forgotten alliances.",
+            "effectiveDate": "2099-06-08T13:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RollersofTheRealmReunion_PhantomCompass_S1_2560x1440-3b714b18a986b5cc32cecd1dce1e7bd5"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RollersofTheRealmReunion_PhantomCompass_S2_1200x1600-e4b367a06ce6eb0c6e7bcf18234d417b"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RollersofTheRealmReunion_PhantomCompass_S2_1200x1600-e4b367a06ce6eb0c6e7bcf18234d417b"
+                },
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RollersofTheRealmReunion_PhantomCompass_S2_1200x1600-e4b367a06ce6eb0c6e7bcf18234d417b"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RollersofTheRealmReunion_PhantomCompass_S1_2560x1440-3b714b18a986b5cc32cecd1dce1e7bd5"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RollersofTheRealmReunion_PhantomCompass_S2_1200x1600-e4b367a06ce6eb0c6e7bcf18234d417b"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/rollers-of-the-realm-reunion",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-01-02T03:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2021-06-08T13:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Phantom Compass Inc"
+        },
+        {
+            "title": "Blazing Sails",
+            "id": "363d0be3b57d4741a046d38da0e6355e",
+            "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+            "description": "Fight for survival in Blazing Sails, a fast-paced pirate PvP game! Create your own unique pirate and ship. Band together with other players to command your mighty vessel! Explore different game-modes, maps, weapons, ship types and more while eliminating other crews in epic battles on land and sea!",
+            "effectiveDate": "2099-04-06T17:35:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_S2_1200x1600-bae3831e97b560958dc785e830ebed8c"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_S1_2560x1440-fd7a7b3d357555880cb7969634553c5b"
+                },
+                {
+                    "type": "ProductLogo",
+                    "url": "https://cdn1.epicgames.com/offer/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_IC1_400x400-a7b91f257fcbd9ced825d3da95298170"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_S2_1200x1600-bae3831e97b560958dc785e830ebed8c"
+                }
+            ],
+            "currentPrice": 1499,
+            "url": "https://store.epicgames.com/en-US/p/blazing-sails",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 1499,
+                    "originalPrice": 1499,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "$14.99",
+                        "discountPrice": "$14.99",
+                        "intermediatePrice": "$14.99"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-04-06T13:34:00.000Z",
+            "pcReleaseDate": "2020-11-05T15:00:00.000Z",
+            "viewableDate": "2023-03-30T15:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Iceberg Interactive"
+        },
+        {
+            "title": "Distant Worlds 2",
+            "id": "a35421455790474081755b4575fa5a97",
+            "namespace": "72d60095fecc42bea1c711ede0762220",
+            "description": "Distant Worlds Returns! Distant Worlds, the critically acclaimed 4X space strategy game is back with a brand new 64-bit engine, 3D graphics and a polished interface to begin an epic new Distant Worlds series with Distant Worlds 2.",
+            "effectiveDate": "2099-03-10T15:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/offer/72d60095fecc42bea1c711ede0762220/EGS_DistantWorlds2_CodeForce_S2_1200x1600-6a6452954c809475f4ed8548f0cebc6a"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/72d60095fecc42bea1c711ede0762220/EGS_DistantWorlds2_CodeForce_S2_1200x1600-6a6452954c809475f4ed8548f0cebc6a"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/72d60095fecc42bea1c711ede0762220/EGS_DistantWorlds2_CodeForce_S2_1200x1600-6a6452954c809475f4ed8548f0cebc6a"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/72d60095fecc42bea1c711ede0762220/EGS_DistantWorlds2_CodeForce_S1_2560x1440-e18ec2c31ca184848e6d6e8c94c74a90"
+                }
+            ],
+            "currentPrice": 4999,
+            "url": "https://store.epicgames.com/en-US/p/distant-worlds-2",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 3499,
+                    "originalPrice": 4999,
+                    "voucherDiscount": 0,
+                    "discount": 1500,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "$49.99",
+                        "discountPrice": "$34.99",
+                        "intermediatePrice": "$34.99"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": [
+                            {
+                                "id": "764327e9cec742b7b84c2bec11baf7eb",
+                                "endDate": "2023-09-28T15:00:00.000Z",
+                                "discountSetting": {
+                                    "discountType": "PERCENTAGE"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": null,
+            "pcReleaseDate": null,
+            "viewableDate": "2022-02-10T18:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": " Slitherine Ltd."
+        },
+        {
+            "title": "SKULL AND BONES™",
+            "id": "59d07f9753be4c229bd3ea54e69d4b6e",
+            "namespace": "0c05e0889c3e42a4be1d81077d6e653a",
+            "description": "Enter the perilous paradise of Skull and Bones™ as you overcome the odds and rise from an outcast to infamous pirate.\n",
+            "effectiveDate": "2099-03-09T23:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/0c05e0889c3e42a4be1d81077d6e653a/SAB_Store_Landscape_2560x1440_2560x1440-00b4029199a7a6778fd27dec96f08a28"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/0c05e0889c3e42a4be1d81077d6e653a/SAB_Store_Portrait_1200x1600_1200x1600-121f3de29b692d333e0773c7d4a7a432"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/0c05e0889c3e42a4be1d81077d6e653a/SAB_Store_Portrait_1200x1600_1200x1600-121f3de29b692d333e0773c7d4a7a432"
+                }
+            ],
+            "currentPrice": 5999,
+            "url": "https://store.epicgames.com/en-US/p/skull-and-bones--premium-edition",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 5999,
+                    "originalPrice": 5999,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "$59.99",
+                        "discountPrice": "$59.99",
+                        "intermediatePrice": "$59.99"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": true,
+            "releaseDate": "2099-03-09T23:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2022-07-07T18:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "UBISOFT"
+        },
+        {
+            "title": "Vampire: The Masquerade® - Bloodlines™ 2",
+            "id": "15480de321c946ecb984fe3ccbd32579",
+            "namespace": "nemesia",
+            "description": "Enter the World of Darkness and rise through vampire society. Experience Seattle - a city full of alluring, dangerous characters and factions. In this sequel to the cult classic, your choices, plots and schemes will change the balance of power.",
+            "effectiveDate": "2099-03-08T04:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/nemesia/EGS_VampireTheMasqueradeBloodlines2_TheChineseRoom_S2_1200x1600-31c6dc03b2c02f7cf43b6df2972791bf"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/nemesia/EGS_VampireTheMasqueradeBloodlines2_TheChineseRoom_S1_2560x1440-eed15ab6496fcba9770d4205aeb2aaf7"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/nemesia/EGS_VampireTheMasqueradeBloodlines2_TheChineseRoom_S2_1200x1600-31c6dc03b2c02f7cf43b6df2972791bf"
+                }
+            ],
+            "currentPrice": 5999,
+            "url": "https://store.epicgames.com/en-US/p/vampire-the-masquerade-bloodlines-2",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 5999,
+                    "originalPrice": 5999,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "$59.99",
+                        "discountPrice": "$59.99",
+                        "intermediatePrice": "$59.99"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": false,
+            "releaseDate": null,
+            "pcReleaseDate": null,
+            "viewableDate": "2023-06-01T13:58:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Paradox Interactive"
+        },
+        {
+            "title": "Gangs of Sherwood",
+            "id": "a1cae1d2342c4e5ba60f6fedec959c2c",
+            "namespace": "f76aab05872f4293bb5f46485cb2f16c",
+            "description": "Fight the armies of the Sheriff of Nottingham and lead the rebellion, solo or in co-op with up to 4 players. Play as one of the Merry Men, combine your attacks, and free the people in this futuristic dystopia inspired by the legend of Robin Hood.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/f76aab05872f4293bb5f46485cb2f16c/EGS_GangsofSherwood_AppealStudio_S2_1200x1600-9d2b08af152e6d92a3f2030e7116996f"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/f76aab05872f4293bb5f46485cb2f16c/EGS_GangsofSherwood_AppealStudio_S1_2560x1440-8aa4dc37d58b93f162e6d9b4a8697abc"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/f76aab05872f4293bb5f46485cb2f16c/EGS_GangsofSherwood_AppealStudio_S2_1200x1600-9d2b08af152e6d92a3f2030e7116996f"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/gangs-of-sherwood",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": true,
+            "releaseDate": "2099-02-01T00:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2022-07-07T18:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Nacon"
+        },
+        {
+            "title": "Selfloss",
+            "id": "909cfa0b226f44bd97e121f004434436",
+            "namespace": "f64e89cc12ef4afea8609ca8a6a2f7ea",
+            "description": "Selfloss is an adventure game set in a world of Slavic and Icelandic folklore. As the player, you take on the role of an old man with a magical staff who wanders seas and lakes, battling mythical creatures and helping those in need by healing their souls.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Selfloss_GoodwinGames_S2_1200x1600-af93647a140b23c9d5d1589e0684e709"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Selfloss_GoodwinGames_S1_2560x1440-234ed832e8af8d4569d13ee054f66954"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Selfloss_GoodwinGames_S2_1200x1600-af93647a140b23c9d5d1589e0684e709"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Selfloss_GoodwinGames_S1_2560x1440-234ed832e8af8d4569d13ee054f66954"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Selfloss_GoodwinGames_S2_1200x1600-af93647a140b23c9d5d1589e0684e709"
+                },
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Selfloss_GoodwinGames_S2_1200x1600-af93647a140b23c9d5d1589e0684e709"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/selfloss",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-01-02T03:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2021-10-11T20:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Goodwin Games"
+        },
+        {
+            "title": "Read Only Memories: NEURODIVER",
+            "id": "7f1b20cd4dda49b594bb554cdad1b07c",
+            "namespace": "f5dc09de21044dc093fd4dbbab699a07",
+            "description": "Read Only Memories: NEURODIVER",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/f5dc09de21044dc093fd4dbbab699a07/offer/EGS_ReadOnlyMemoriesNEURODIVER_MidBossLLC_S1-2560x1440-64165dd8c40eedfe1c19e196e6cf39bb.jpg"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/f5dc09de21044dc093fd4dbbab699a07/offer/EGS_ReadOnlyMemoriesNEURODIVER_MidBossLLC_S2-1200x1600-79c803615e9551c0956c8f9419a61ee1.jpg"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/f5dc09de21044dc093fd4dbbab699a07/offer/EGS_ReadOnlyMemoriesNEURODIVER_MidBossLLC_S2-1200x1600-79c803615e9551c0956c8f9419a61ee1.jpg"
+                },
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/f5dc09de21044dc093fd4dbbab699a07/offer/EGS_ReadOnlyMemoriesNEURODIVER_MidBossLLC_S2-1200x1600-79c803615e9551c0956c8f9419a61ee1.jpg"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/f5dc09de21044dc093fd4dbbab699a07/offer/EGS_ReadOnlyMemoriesNEURODIVER_MidBossLLC_S1-2560x1440-64165dd8c40eedfe1c19e196e6cf39bb.jpg"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/f5dc09de21044dc093fd4dbbab699a07/offer/EGS_ReadOnlyMemoriesNEURODIVER_MidBossLLC_S2-1200x1600-79c803615e9551c0956c8f9419a61ee1.jpg"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/read-only-memories-neurodiver",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-01-02T03:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2021-03-13T20:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "MidBoss, LLC"
+        },
+        {
+            "title": "Judas",
+            "id": "4a388c43e26746069b1eafc72bb14add",
+            "namespace": "f36996438299421ea93580ec6c91449b",
+            "description": "A disintegrating starship. A desperate escape plan. You are the mysterious and troubled Judas. Your only hope for survival is to make or break alliances with your worst enemies.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/f36996438299421ea93580ec6c91449b/judastall_2560x1440-b40bb659421deb5527b5d97226a87998"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/f36996438299421ea93580ec6c91449b/11b3e009-04c0-428a-a69a-b7bf400c92f1_1200x1600-e4de145cc8f52070690d84ebcfeb937d"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/f36996438299421ea93580ec6c91449b/11b3e009-04c0-428a-a69a-b7bf400c92f1_1200x1600-e4de145cc8f52070690d84ebcfeb937d"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/judas",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-02-01T00:00:00.000Z",
+            "pcReleaseDate": "2099-02-01T00:00:00.000Z",
+            "viewableDate": "2022-12-09T01:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": null
+        },
+        {
+            "title": "Metalstorm",
+            "id": "2ad94e648cd64b3c809821f841187112",
+            "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+            "description": "Welcome to Metalstorm, the ultimate team-based multiplayer air combat experience! \n\nA truly free-to-play game. Engage in live 5v5 air combat with friends against real players around the world. Collect and upgrade the world’s most advanced and legendary jets.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/dc09ae8f1aa445b7853b5300c2345d81/EGS_Metalstorm_Starform_S2_1200x1600-1ff27afbdd495badc021b65823cb8cdb"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/dc09ae8f1aa445b7853b5300c2345d81/EGS_Metalstorm_Starform_S1_2560x1440-df32d566bf58428a6ba7115109aeaac0"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/dc09ae8f1aa445b7853b5300c2345d81/EGS_Metalstorm_Starform_S2_1200x1600-1ff27afbdd495badc021b65823cb8cdb"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/metalstorm",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-02-01T00:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2023-04-21T13:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Starform"
+        },
+        {
+            "title": "Pacific Drive",
+            "id": "d77e8170a455443db736aeafbc47eb5d",
+            "namespace": "d6d8a7241f6841a8823f5a533a1564da",
+            "description": "Survive the anomaly-filled Olympic Exclusion Zone with a car as your only lifeline. Scavenge resources from abandoned research sites, load up your trusty station wagon, and drive like hell to make it through alive. This run-based driving survival adventure arrives in 2023.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "ProductLogo",
+                    "url": "https://cdn1.epicgames.com/offer/d6d8a7241f6841a8823f5a533a1564da/EGS_PacificDrive_IronwoodStudios_IC1_400x200-d6abb9bc8cec7ee899dcbb15cdee08ea"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/d6d8a7241f6841a8823f5a533a1564da/EGS_PacificDrive_IronwoodStudios_S1_2560x1440-a76026dde1e233d5b03fe9d4ab6a2202"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/d6d8a7241f6841a8823f5a533a1564da/EGS_PacificDrive_IronwoodStudios_S2_1200x1600-ab0084b418b64946d298f705d6c2031a"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/d6d8a7241f6841a8823f5a533a1564da/EGS_PacificDrive_IronwoodStudios_S2_1200x1600-ab0084b418b64946d298f705d6c2031a"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/pacific-drive",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-02-01T00:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2023-02-09T17:00:00.000Z",
+            "approximateReleasePlan": {
+                "day": null,
+                "month": null,
+                "quarter": "q1",
+                "year": 2024,
+                "releaseDateType": "BY_QUARTER"
+            },
+            "publisherName": "Kepler Interactive"
+        },
+        {
+            "title": "Soundfall",
+            "id": "75037f32c2cc431f93981d80160ee32b",
+            "namespace": "d2a9f331cf0f47b6a85a12a0dd380000",
+            "description": "Soundfall is a dungeon crawler that combines looter-shooter action with rhythm-based gameplay. Venture out solo or with up to 4 friends locally or online. The closer you time your actions to the rhythm of the soundtrack, the more powerful you become! ",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/offer/d2a9f331cf0f47b6a85a12a0dd380000/EGS_Soundfall_DrasticGames_S2_1200x1600-f11b4ac7be05169e8c94bdf73820fe93"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/d2a9f331cf0f47b6a85a12a0dd380000/EGS_Soundfall_DrasticGames_S2_1200x1600-f11b4ac7be05169e8c94bdf73820fe93"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/d2a9f331cf0f47b6a85a12a0dd380000/EGS_Soundfall_DrasticGames_S1_2560x1440-a37615c002abb52008c10ac12561ac8a"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/d2a9f331cf0f47b6a85a12a0dd380000/EGS_Soundfall_DrasticGames_S2_1200x1600-f11b4ac7be05169e8c94bdf73820fe93"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/offer/d2a9f331cf0f47b6a85a12a0dd380000/EGS_Soundfall_DrasticGames_S1_2560x1440-a37615c002abb52008c10ac12561ac8a"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/offer/d2a9f331cf0f47b6a85a12a0dd380000/EGS_Soundfall_DrasticGames_S2_1200x1600-f11b4ac7be05169e8c94bdf73820fe93"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/soundfall",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": null,
+            "pcReleaseDate": null,
+            "viewableDate": "2021-08-25T17:30:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Noodlecake Studios Inc"
+        },
+        {
+            "title": "Nivalis",
+            "id": "7463adc01f5743f68f19f694f1c00d2f",
+            "namespace": "ce644cd84f3a4aa688835a0cb79d59ad",
+            "description": "Grow your business, manage restaurants and nightclubs, make friends and enemies, buy and decorate apartments, go fishing and maybe even find love in Nivalis, the city that stretches from the ocean to the clouds.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/ce644cd84f3a4aa688835a0cb79d59ad/EGS_Nivalis_IONLANDS_S2_1200x1600-456b61fedfbdf167e4ebe73221b45dc8"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/ce644cd84f3a4aa688835a0cb79d59ad/EGS_Nivalis_IONLANDS_S1_2560x1440-5cebc68317bdde9c55c68fca89afa481"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/ce644cd84f3a4aa688835a0cb79d59ad/EGS_Nivalis_IONLANDS_S2_1200x1600-456b61fedfbdf167e4ebe73221b45dc8"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/nivalis",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "games/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-02-01T00:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2022-06-12T21:00:00.000Z",
+            "approximateReleasePlan": {
+                "day": null,
+                "month": null,
+                "quarter": null,
+                "year": 2024,
+                "releaseDateType": "BY_YEAR"
+            },
+            "publisherName": "505 Games"
+        },
+        {
+            "title": "Escape The Loop",
+            "id": "ddbe941f878b4c66997ca45750019916",
+            "namespace": "cd22c6f20f8e447991a1dfc779a2b024",
+            "description": "What if I told you, we've done this before? You've read this text, you've looked at these screenshots, and you've watched this trailer. Not once, but a hundred times. Maybe even more. And in five minutes, you won't remember any of it – and do it all over again",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EscapeTheLoop_PixelManiacs_S2_1200x1600-eaa3e89b0344d83084bf698aec61c3d7"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EscapeTheLoop_PixelManiacs_S1_2560x1440-3ac22aa2f3a3693b99c2cc167408981e"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EscapeTheLoop_PixelManiacs_S2_1200x1600-eaa3e89b0344d83084bf698aec61c3d7"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EscapeTheLoop_PixelManiacs_S1_2560x1440-3ac22aa2f3a3693b99c2cc167408981e"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EscapeTheLoop_PixelManiacs_S2_1200x1600-eaa3e89b0344d83084bf698aec61c3d7"
+                },
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/offer/cd22c6f20f8e447991a1dfc779a2b024/EGS_EscapeTheLoop_PixelManiacs_S2_1200x1600-eaa3e89b0344d83084bf698aec61c3d7_1200x1600-eaa3e89b0344d83084bf698aec61c3d7"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/escape-the-loop",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-01-02T03:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2021-11-02T16:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Pixel Maniacs"
+        },
+        {
+            "title": "The Siege and the Sandfox",
+            "id": "ad7be555373b47b28339525c9e138a85",
+            "namespace": "c8ea2f513717454fb145e274455fbf54",
+            "description": "A 2D stealth Metroidvania with parkour platforming. Explore the majestic palace and ancient prisons of a kingdom under siege. Don the mantle of the legendary Sandfox as you venture into the ruins below, and discover the true threat from a sand-borne evil.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/c8ea2f513717454fb145e274455fbf54/EGS_TheSiegeandtheSandfox_CardboardSword_S1_2560x1440-f73ea204b8a2c6dfefbe500c7920182b"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/c8ea2f513717454fb145e274455fbf54/EGS_TheSiegeandtheSandfox_CardboardSword_S2_1200x1600-bcef2265b1df93f9b39a0f2a407d2c2c"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/c8ea2f513717454fb145e274455fbf54/EGS_TheSiegeandtheSandfox_CardboardSword_S2_1200x1600-bcef2265b1df93f9b39a0f2a407d2c2c"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/the-siege-and-the-sandfox",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-07-28T09:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2022-07-28T09:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Plaion"
+        },
+        {
+            "title": "PixelJunk Eden 2",
+            "id": "b374d4f6771c47fd8f83d18eb2c2eb49",
+            "namespace": "c7d240a44afd4e0ba06780cfc6fc5884",
+            "description": "Return to the gardens of light and sound in this hypnotic platforming adventure from the award-winning PixelJunk series. Brought to life in stunning 4K with both art direction and a mesmerising soundtrack from the celebrated multimedia artist Baiyon.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/c7d240a44afd4e0ba06780cfc6fc5884/EGS_PixelJunkEden2_QGames_S2_1200x1600-54674e237e661b27c9ac1b567afed25f"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/c7d240a44afd4e0ba06780cfc6fc5884/EGS_PixelJunkEden2_QGames_S1_2560x1440-38fa5540cf97e475cf57f6a3be361743"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/c7d240a44afd4e0ba06780cfc6fc5884/EGS_PixelJunkEden2_QGames_S2_1200x1600-54674e237e661b27c9ac1b567afed25f"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/pixeljunk-eden-2",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-02-01T00:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2023-07-05T13:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Q-Games"
+        },
+        {
+            "title": "Ultros",
+            "id": "cb317282bbd3460abd9d48356063b832",
+            "namespace": "c6422f963ff84bcbb3b77539e77b6ef7",
+            "description": "ULTROS is a psychedelic metroidvania where you wake up stranded on The Sarcophagus — a cosmic uterus holding an ancient, demonic being. Trapped in the loop of a black hole, you will have to explore The Sarcophagus and meet its inhabitants to understand the part you play.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/offer/c6422f963ff84bcbb3b77539e77b6ef7/EGS_Ultros_Hadoque_S2_1200x1600-e990ede0b6b95c36635103d4aba77350"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/c6422f963ff84bcbb3b77539e77b6ef7/EGS_Ultros_Hadoque_S2_1200x1600-e990ede0b6b95c36635103d4aba77350"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/c6422f963ff84bcbb3b77539e77b6ef7/EGS_Ultros_Hadoque_S1_2560x1440-f7c06adb25eb7f782dba25d0425b3ff9"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/c6422f963ff84bcbb3b77539e77b6ef7/EGS_Ultros_Hadoque_S2_1200x1600-e990ede0b6b95c36635103d4aba77350"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/ultros",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-02-01T00:00:00.000Z",
+            "pcReleaseDate": "2099-02-01T00:00:00.000Z",
+            "viewableDate": "2023-05-24T21:00:00.000Z",
+            "approximateReleasePlan": {
+                "day": null,
+                "month": null,
+                "quarter": null,
+                "year": 2024,
+                "releaseDateType": "BY_YEAR"
+            },
+            "publisherName": "Hadoque"
+        },
+        {
+            "title": "Stargate: Timekeepers",
+            "id": "c3e1a0d5c77348c4b5bbaacfbbac78db",
+            "namespace": "baba9fd324fb471caaab77ce2a3b28af",
+            "description": "\"Stargate: Timekeepers is a real-time tactics game where you lead a team of specialists through a story-driven campaign set in the SG-1 universe. Use your characters' unique skills, craft the plan to unravel a timeloop mystery, and defeat the Goa’uld threat.\" ",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/baba9fd324fb471caaab77ce2a3b28af/EGS_StargateTimekeepers_CreativeForge_S2_1200x1600-51d326f9e5961568f1054ce56c678528"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/baba9fd324fb471caaab77ce2a3b28af/EGS_StargateTimekeepers_CreativeForge_S1_2560x1440-8ca0405d5a726a747078fb497d82bd34"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/baba9fd324fb471caaab77ce2a3b28af/EGS_StargateTimekeepers_CreativeForge_S2_1200x1600-51d326f9e5961568f1054ce56c678528"
+                },
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/offer/baba9fd324fb471caaab77ce2a3b28af/EGS_StargateTimekeepers_CreativeForge_S2_1200x1600-51d326f9e5961568f1054ce56c678528"
+                }
+            ],
+            "currentPrice": 2999,
+            "url": "https://store.epicgames.com/en-US/p/stargate-timekeepers",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 2999,
+                    "originalPrice": 2999,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "$29.99",
+                        "discountPrice": "$29.99",
+                        "intermediatePrice": "$29.99"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-02-01T00:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": null,
+            "approximateReleasePlan": null,
+            "publisherName": "Slitherine Ltd."
+        },
+        {
+            "title": "Hotel: A Resort Simulator",
+            "id": "1e1d88f70cbd4ac6ad0ee33f251d1a6f",
+            "namespace": "b6a1a2bc8ab94b7fab473216aee35a3e",
+            "description": "You are the manager of a hotel in an idyllic location. Build, design and develop your hotel, while creating unforgettable memories for your guests through expert management and by offering exceptional entertainment.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/offer/b6a1a2bc8ab94b7fab473216aee35a3e/EGS_HotelAResortSimulator_RingZero_S2_1200x1600-e9832c930e6c8d14ef42eae93b5a1955"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/offer/b6a1a2bc8ab94b7fab473216aee35a3e/EGS_HotelAResortSimulator_RingZero_S2_1200x1600-e9832c930e6c8d14ef42eae93b5a1955"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/offer/b6a1a2bc8ab94b7fab473216aee35a3e/EGS_HotelAResortSimulator_RingZero_S1_2560x1440-4eceb389b6c8f7f36837b790339d897d"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/b6a1a2bc8ab94b7fab473216aee35a3e/EGS_HotelAResortSimulator_RingZero_S2_1200x1600-e9832c930e6c8d14ef42eae93b5a1955"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/b6a1a2bc8ab94b7fab473216aee35a3e/EGS_HotelAResortSimulator_RingZero_S1_2560x1440-4eceb389b6c8f7f36837b790339d897d"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/b6a1a2bc8ab94b7fab473216aee35a3e/EGS_HotelAResortSimulator_RingZero_S2_1200x1600-e9832c930e6c8d14ef42eae93b5a1955"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/hotel-a-resort-simulator",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-02-01T00:00:00.000Z",
+            "pcReleaseDate": "2099-02-01T00:00:00.000Z",
+            "viewableDate": "2023-09-07T19:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Nacon"
+        },
+        {
+            "title": "Rune Fencer Illyia",
+            "id": "fb95332ced2b4c6ca4bd185081e3312e",
+            "namespace": "b2f2c7d46ca0443a8e96efb7b7d171c2",
+            "description": "Rune Fencer Illyia is an intense, atmospheric action-platformer with a heavy focus on exploration and combat. Traverse an enormous and dangerous world, meet strange allies, and outfight your numerous foes with fast-paced swordplay and stolen runic magic.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RuneFencerIllyia_NootboxGames_S2_1200x1600-e83f30ffe081e0c3f94296a544112bfd"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RuneFencerIllyia_NootboxGames_S2_1200x1600-e83f30ffe081e0c3f94296a544112bfd"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RuneFencerIllyia_NootboxGames_S1_2560x1440-e73658c645aea060a40652776f590aa5"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RuneFencerIllyia_NootboxGames_S2_1200x1600-e83f30ffe081e0c3f94296a544112bfd"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RuneFencerIllyia_NootboxGames_S1_2560x1440-e73658c645aea060a40652776f590aa5"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RuneFencerIllyia_NootboxGames_S2_1200x1600-e83f30ffe081e0c3f94296a544112bfd"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/rune-fencer-illyia",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-01-02T03:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2021-08-26T19:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Nootbox Games"
+        },
+        {
+            "title": "Exotic Cars VI",
+            "id": "ee56aca4f1dc4811a1b0f6232467e7a7",
+            "namespace": "b10f9fbb50684cc7a8cc374dd315b799",
+            "description": "The game tries to capture real life, when a brand launches a new product it is reflected in the game. This allows the player to integrate into the world organically and easily, the player can eat, drink, drive any brand of car, buy clothes, etc.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ExoticCarsVI_LanyGamesInc_S2_1200x1600-7648a590ba6ecb9b8cbfe975f9630384"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ExoticCarsVI_LanyGamesInc_S2_1200x1600-7648a590ba6ecb9b8cbfe975f9630384"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ExoticCarsVI_LanyGamesInc_S1_2560x1440-debab7556682ccdc0915bf6e39bbf988"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ExoticCarsVI_LanyGamesInc_S2_1200x1600-7648a590ba6ecb9b8cbfe975f9630384"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ExoticCarsVI_LanyGamesInc_S1_2560x1440-debab7556682ccdc0915bf6e39bbf988"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ExoticCarsVI_LanyGamesInc_S2_1200x1600-7648a590ba6ecb9b8cbfe975f9630384"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/exotic-cars-vi",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-01-02T03:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2021-08-26T21:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Lany Games Inc S.A de C.V."
+        },
+        {
+            "title": "John Carpenter’s Toxic Commando",
+            "id": "3ffdc34e67364f7b931edad7c6b5c479",
+            "namespace": "a22be63a94a64dd4a999ed959f0ce77f",
+            "description": "Pick a character and team up with three friends ‘cause it’s time to save the world. Obliterate terrifying hordes of monsters in intense and FPS action! You may not be on the best team of mercenaries, but you are… a Toxic Commando! ",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/a22be63a94a64dd4a999ed959f0ce77f/EGS_JohnCarpentersToxicCommando_SaberInteractive_S2_1200x1600-e49a95a4ce9e91e79762a5a2739fcc3c"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/a22be63a94a64dd4a999ed959f0ce77f/EGS_JohnCarpentersToxicCommando_SaberInteractive_S2_1200x1600-e49a95a4ce9e91e79762a5a2739fcc3c"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/a22be63a94a64dd4a999ed959f0ce77f/EGS_JohnCarpentersToxicCommando_SaberInteractive_S1_2560x1440-51f4cdd97ee9e05435b2101245a02571"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/john-carpenters-toxic-commando",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-02-01T00:00:00.000Z",
+            "pcReleaseDate": "2099-02-01T00:00:00.000Z",
+            "viewableDate": "2023-06-08T19:50:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Focus Entertainment"
+        },
+        {
+            "title": "The Anacrusis",
+            "id": "6f1f423c5bbc43109be6c1ef811fc010",
+            "namespace": "7e011bb3fb724959b2a132aef9bf27fc",
+            "description": "The Anacrusis is a four-player, co-op first-person shooter set aboard a starship stranded at the edge of explored space. Team up with your friends in an infinitely-replayable fight against alien hordes and unlock perks, weapons, and new ways to play!",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/7e011bb3fb724959b2a132aef9bf27fc/EGS_TheAnacrusis_StrayBombay_S2_1200x1600-44f7cb101bc058c19713289b0391e224"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/7e011bb3fb724959b2a132aef9bf27fc/EGS_TheAnacrusis_StrayBombay_S1_2560x1440-b062706ed418b2dad6b1af5c033f48eb"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/7e011bb3fb724959b2a132aef9bf27fc/EGS_TheAnacrusis_StrayBombay_S2_1200x1600-44f7cb101bc058c19713289b0391e224"
+                },
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/offer/7e011bb3fb724959b2a132aef9bf27fc/EGS_TheAnacrusis_StrayBombay_S2_1200x1600-44f7cb101bc058c19713289b0391e224"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/offer/7e011bb3fb724959b2a132aef9bf27fc/EGS_TheAnacrusis_StrayBombay_S2_1200x1600-44f7cb101bc058c19713289b0391e224"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/offer/7e011bb3fb724959b2a132aef9bf27fc/EGS_TheAnacrusis_StrayBombay_S1_2560x1440-b062706ed418b2dad6b1af5c033f48eb"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/the-anacrusis",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-02-01T00:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2021-06-22T15:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Stray Bombay Company"
+        },
+        {
+            "title": "Eville",
+            "id": "de2997e9771f4951bbbd4a8870f0baf1",
+            "namespace": "5bb82a6f078e41e783d0930758812e4a",
+            "description": "Betray your friends - and lie your way to victory. In the multiplayer social deduction game Eville you find yourself in a village riddled by a series of murders. Some say it might have been you - or was it? Convince others you're not a murderer to stay alive!",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/5bb82a6f078e41e783d0930758812e4a/EGS_Eville_VestGames_S2_1200x1600-eba8f9d92d779e56c17cbc865675e8f3"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/5bb82a6f078e41e783d0930758812e4a/EGS_Eville_VestGames_S1_2560x1440-b4cdd0fd2d06dd2d16a8902f08e39eed"
+                },
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/offer/5bb82a6f078e41e783d0930758812e4a/Eville_1200x1600-35b61d6313404f0fd1ff893474d71193"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/5bb82a6f078e41e783d0930758812e4a/Eville_1200x1600-35b61d6313404f0fd1ff893474d71193"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/eville",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-02-01T00:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2022-09-08T15:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Versus Evil"
+        },
+        {
+            "title": "REPLACED",
+            "id": "a43c909e2b664b51abf57b6ea2652462",
+            "namespace": "592f2146b4d944d5ab0e895e344c8669",
+            "description": "REPLACED is a 2.5D sci-fi retro-futuristic action platformer where you play as R.E.A.C.H. - an artificial intelligence trapped in a human body against its own will. REPLACED combines cinematic platformer, pixel art, and free-flow action combat.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REPLACED_SadCatStudios_S2_1200x1600-0df3d28cb7524b48fc70f1afc0a047ed"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REPLACED_SadCatStudios_S2_1200x1600-0df3d28cb7524b48fc70f1afc0a047ed"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REPLACED_SadCatStudios_S1_2560x1440-48116926c33acd2a8e7e492bc0fdc7b2"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REPLACED_SadCatStudios_S2_1200x1600-0df3d28cb7524b48fc70f1afc0a047ed"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REPLACED_SadCatStudios_S1_2560x1440-48116926c33acd2a8e7e492bc0fdc7b2"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REPLACED_SadCatStudios_S2_1200x1600-0df3d28cb7524b48fc70f1afc0a047ed"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/replaced",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-01-02T03:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2021-06-13T19:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Coatsink"
+        },
+        {
+            "title": "Disney Speedstorm",
+            "id": "f5db392b5a1242faaddfb8bad208f7d0",
+            "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+            "description": "Disney Speedstorm",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/EGS_DisneySpeedstorm_Gameloft_S2_1200x1600-569dcc49a37c897ed91dbe45604653fb"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/EGS_DisneySpeedstorm_Gameloft_S1_2560x1440-f587feb4cb9f58278a36579474f4eba8"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/EGS_DisneySpeedstorm_Gameloft_S2_1200x1600-569dcc49a37c897ed91dbe45604653fb"
+                }
+            ],
+            "currentPrice": 2999,
+            "url": "https://store.epicgames.com/en-US/p/disney-speedstorm",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 2999,
+                    "originalPrice": 2999,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "$29.99",
+                        "discountPrice": "$29.99",
+                        "intermediatePrice": "$29.99"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-02-01T00:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2023-03-16T16:00:00.000Z",
+            "approximateReleasePlan": {
+                "day": 28,
+                "month": 9,
+                "quarter": null,
+                "year": 2023,
+                "releaseDateType": "BY_DATE"
+            },
+            "publisherName": "Gameloft"
+        },
+        {
+            "title": "RoboCop: Rogue City",
+            "id": "569686c83586429bab1dfce241bb5229",
+            "namespace": "3a5c77a536854024add2714cbd0fa865",
+            "description": "Become the iconic part man, part machine, all cop hero as you attempt to bring justice to the dangerous, crime-ridden streets of Old Detroit.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/offer/3a5c77a536854024add2714cbd0fa865/EGS_RoboCopRogueCity_Teyon_S2_1200x1600-3e666124c2088c599e35700623bef464"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/offer/3a5c77a536854024add2714cbd0fa865/EGS_RoboCopRogueCity_Teyon_S2_1200x1600-3e666124c2088c599e35700623bef464"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/offer/3a5c77a536854024add2714cbd0fa865/EGS_RoboCopRogueCity_Teyon_S1_2560x1440-0e2b89ec6e73db0690475fc02db38a50"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/3a5c77a536854024add2714cbd0fa865/EGS_RoboCopRogueCity_Teyon_S2_1200x1600-3e666124c2088c599e35700623bef464"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/3a5c77a536854024add2714cbd0fa865/EGS_RoboCopRogueCity_Teyon_S1_2560x1440-0e2b89ec6e73db0690475fc02db38a50"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/3a5c77a536854024add2714cbd0fa865/EGS_RoboCopRogueCity_Teyon_S2_1200x1600-3e666124c2088c599e35700623bef464"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/robocop-rogue-city",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2023-11-02T08:00:00.000Z",
+            "pcReleaseDate": "2023-11-02T08:00:00.000Z",
+            "viewableDate": "2023-03-09T18:30:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Nacon"
+        },
+        {
+            "title": "Hades II",
+            "id": "adbc94588a184ce3a6122a19aae940ae",
+            "namespace": "36a21c249987423a93f8442cc40a0e33",
+            "description": "Battle beyond the Underworld using dark sorcery to take on the Titan of Time in this bewitching sequel to the Game-of-the-Year-winning rogue-like dungeon crawler.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/36a21c249987423a93f8442cc40a0e33/EGS_HadesII_SupergiantGames_S2_1200x1600-5b9eabb0ec69ee64183bd8c7f6a3d987"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/36a21c249987423a93f8442cc40a0e33/EGS_HadesII_SupergiantGames_S1_2560x1440-eeb7cc190a7b33f8e8831dee6f7a70ac"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/36a21c249987423a93f8442cc40a0e33/EGS_HadesII_SupergiantGames_S2_1200x1600-5b9eabb0ec69ee64183bd8c7f6a3d987"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/hades-ii",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-02-01T00:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": "2022-12-09T00:45:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Supergiant Games LLC "
+        },
+        {
+            "title": "Frostpunk 2",
+            "id": "4f7cefeebf4d4804be3007283abe4895",
+            "namespace": "32bc7c6aaecd40eeb5f58bb83dba1c05",
+            "description": "Frostpunk 2 is the sequel to the highly acclaimed society survival game. The age of steam has passed and now, oil leads the way as humanity’s newest salvation. However, with new threats on the horizon, the future of the city looks even grimmer than before. ",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/32bc7c6aaecd40eeb5f58bb83dba1c05/EGS_Frostpunk2_11bitstudios_S2_1200x1600-8b452490754cb4a4fe1a983c533cfb5d"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/32bc7c6aaecd40eeb5f58bb83dba1c05/EGS_Frostpunk2_11bitstudios_S1_2560x1440-620751609c80dbffa07bb479675fb3ff"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/32bc7c6aaecd40eeb5f58bb83dba1c05/EGS_Frostpunk2_11bitstudios_S2_1200x1600-8b452490754cb4a4fe1a983c533cfb5d"
+                }
+            ],
+            "currentPrice": 2999,
+            "url": "https://store.epicgames.com/en-US/p/frostpunk-2",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 2999,
+                    "originalPrice": 2999,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "$29.99",
+                        "discountPrice": "$29.99",
+                        "intermediatePrice": "$29.99"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2099-01-02T03:00:00.000Z",
+            "pcReleaseDate": null,
+            "viewableDate": null,
+            "approximateReleasePlan": null,
+            "publisherName": "11 bit studios"
+        },
+        {
+            "title": "Broken Roads",
+            "id": "fb96dbd672af4c9191835bbffec65613",
+            "namespace": "26ad9cfe11574001b0022deee5b7c15b",
+            "description": "Broken Roads is a narrative-driven RPG that brings exploration, strategic turn-based combat and meaningful philosophical choices to an all-new Australian post-apocalyptic setting.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/26ad9cfe11574001b0022deee5b7c15b/EGS_BrokenRoads_DropBearBytes_S2_1200x1600-1c2d6ff9d8d0e1930435c60ddbc3daa1"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/26ad9cfe11574001b0022deee5b7c15b/EGS_BrokenRoads_DropBearBytes_S2_1200x1600-1c2d6ff9d8d0e1930435c60ddbc3daa1"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/26ad9cfe11574001b0022deee5b7c15b/EGS_BrokenRoads_DropBearBytes_S1_2560x1440-31fcdc7d94c8e81533a0a906a9701f0f"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/broken-roads",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": null,
+            "releaseDate": "2023-11-14T15:00:00.000Z",
+            "pcReleaseDate": "2023-11-14T15:00:00.000Z",
+            "viewableDate": "2022-08-22T20:00:00.000Z",
+            "approximateReleasePlan": null,
+            "publisherName": "Versus Evil"
+        },
+        {
+            "title": "Bandle Tale: A League of Legends Story",
+            "id": "44054675efd54690bec1798e8bcc0654",
+            "namespace": "267d05131d004e3494f952a9b1056562",
+            "description": "Bandle Tale: A League of Legends Story is a crafting RPG set in the whimsical world of Bandle City. After a party goes wrong, the portal system collapses and throws everything into chaos! Only you can restore the portals to save Bandle City.",
+            "effectiveDate": "2099-02-01T00:00:00.000Z",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/267d05131d004e3494f952a9b1056562/en_US_BT_Epic_ProductPortraitImage_1200x1600-0539d0211e128b207a95f9354380a2f7"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/267d05131d004e3494f952a9b1056562/en_US_BT_Epic_ProductPortraitImage_1200x1600-0539d0211e128b207a95f9354380a2f7"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/267d05131d004e3494f952a9b1056562/Offer_LibraryImage-Landscape_2560x1440-724306d91b724ba309769dd707bcaf9b"
+                },
+                {
+                    "type": "ProductLogo",
+                    "url": "https://cdn1.epicgames.com/offer/267d05131d004e3494f952a9b1056562/en_US_BT_Epic_ProductLogoLightBG_400x400-177dd39303dd300acb1c082fc6964073"
+                }
+            ],
+            "currentPrice": 0,
+            "url": "https://store.epicgames.com/en-US/p/bandle-tale-a-league-of-legends-story",
+            "categories": [
+                {
+                    "path": "games"
+                },
+                {
+                    "path": "games/edition"
+                },
+                {
+                    "path": "games/edition/base"
+                },
+                {
+                    "path": "applications"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "USD",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "prePurchase": true,
+            "releaseDate": "2099-02-01T00:00:00.000Z",
+            "pcReleaseDate": "2099-02-01T00:00:00.000Z",
+            "viewableDate": "2023-09-14T15:00:00.000Z",
+            "approximateReleasePlan": {
+                "day": null,
+                "month": null,
+                "quarter": null,
+                "year": 2024,
+                "releaseDateType": "BY_YEAR"
+            },
+            "publisherName": "Riot Forge"
+        }
+    ]
+}
